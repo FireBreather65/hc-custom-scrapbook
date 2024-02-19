@@ -2,13 +2,9 @@
 
 :root {
   --colors-background: #17171d;
-
   --colors-text: #fff;
-  
   --colors-muted: #fff;
-
   --colors-elevated: #46465C;
-  
   --fonts-body: 'Rubik', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
 }
 
