@@ -21,6 +21,10 @@
 }
 
 .header-link {
-  color: #737389;
+  color: #A6A6C5;
   opacity: 100%;
+}
+
+.header-link:hover {
+  color: #C2C2E7;
 }
